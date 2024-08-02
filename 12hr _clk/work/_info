@@ -1,0 +1,241 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/tania/Desktop/vlsi/4583-Verilog_labs/Verilog_labs/projects/Traffic_lights_controller
+vbcd_converter
+Z0 !s110 1722192612
+!i10b 1
+!s100 k6bPNBE6Y`B_1M^;Do^OL2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IQHnz=k2^WPBQLUYI^oGDV2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/tania/Desktop/vlsi/4583-Verilog_labs/Verilog_labs/projects/12hr _clk
+Z4 w1722192567
+Z5 8C:/Users/tania/Desktop/vlsi/4583-Verilog_labs/Verilog_labs/projects/12hr _clk/clock.v
+Z6 FC:/Users/tania/Desktop/vlsi/4583-Verilog_labs/Verilog_labs/projects/12hr _clk/clock.v
+!i122 40
+L0 37 17
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1722192612.000000
+Z9 !s107 C:/Users/tania/Desktop/vlsi/4583-Verilog_labs/Verilog_labs/projects/12hr _clk/clock.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/tania/Desktop/vlsi/4583-Verilog_labs/Verilog_labs/projects/12hr _clk/clock.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vdecade_counter
+R0
+!i10b 1
+!s100 VWjABijZQEhP9:n?b_j_R2
+R1
+ID4TOO6?2D=kV5@RWA6K=L0
+R2
+R3
+R4
+R5
+R6
+!i122 40
+L0 70 14
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vhrs_counter
+R0
+!i10b 1
+!s100 lX98@IT:>VQOCUe2D?Q=T1
+R1
+I7z^kKP0V:S8NgPI1O_QFP2
+R2
+R3
+R4
+R5
+R6
+!i122 40
+L0 93 17
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vsix_counter
+R0
+!i10b 1
+!s100 F[HmBP56DML9aEKlYkC4M2
+R1
+I`6[MUM>cHB3JVXK?hlBEc1
+R2
+R3
+R4
+R5
+R6
+!i122 40
+L0 55 14
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vtb
+R0
+!i10b 1
+!s100 gV[[STBM9b;L@UM;R@e7z2
+R1
+I97okRQ<dozCT]AVReOIdY1
+R2
+R3
+w1722186832
+8C:/Users/tania/Desktop/vlsi/4583-Verilog_labs/Verilog_labs/projects/12hr _clk/clock_tb.v
+FC:/Users/tania/Desktop/vlsi/4583-Verilog_labs/Verilog_labs/projects/12hr _clk/clock_tb.v
+!i122 41
+L0 3 21
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/tania/Desktop/vlsi/4583-Verilog_labs/Verilog_labs/projects/12hr _clk/clock_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/tania/Desktop/vlsi/4583-Verilog_labs/Verilog_labs/projects/12hr _clk/clock_tb.v|
+!i113 1
+R11
+R12
+vtf
+R0
+!i10b 1
+!s100 1>[cW0mlJ?lTEYD9`LkYd0
+R1
+I[J@Sf;V[][b13Hl``iAPa0
+R2
+R3
+R4
+R5
+R6
+!i122 40
+L0 85 7
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vtf1
+R0
+!i10b 1
+!s100 KMmJKM9^mmnic]cg`Lg`T1
+R1
+IWN2MYTk1YKa^?Wb4DSb@o0
+R2
+R3
+R4
+R5
+R6
+!i122 40
+L0 111 8
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vtf2
+R0
+!i10b 1
+!s100 ^i[HLV9YbF9iG;DKB9_d?1
+R1
+IS5Tj<:8m[W0;2RJ6En8h83
+R2
+R3
+R4
+R5
+R6
+!i122 40
+L0 120 8
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vtop
+!s110 1722186810
+!i10b 1
+!s100 i3CK77NEBYYaKF5]?K9BE1
+R1
+IGVEzlO;cV^4koS=gZnSaE2
+R2
+R3
+w1718362088
+R5
+R6
+!i122 12
+L0 1 23
+R7
+r1
+!s85 0
+31
+!s108 1722186810.000000
+R9
+R10
+!i113 1
+R11
+R12
+vtop_module
+R0
+!i10b 1
+!s100 WWbF0h^d5;SU@V@NFm4=I2
+R1
+Ik8:?@5z2@J@fk@36OYB9M0
+R2
+R3
+R4
+R5
+R6
+!i122 40
+L0 1 35
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
